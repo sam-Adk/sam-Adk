@@ -1,7 +1,7 @@
 <!-- ====== Banner ====== -->
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/sam-Adk/sam-Adk/main/banner-samuel.png"
+    src="https://raw.githubusercontent.com/sam-Adk/sam-Adk/main/samuel.png"
     alt="Hi, I am Samuel"
     width="938"
     height="250"
