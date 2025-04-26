@@ -1,3 +1,13 @@
+<!-- ====== Banner ====== -->
+<p align="center">
+  <img
+    src="https://github.com/sam-Adk/sam-Adk/blob/main/banner-samuel.jpg?raw=true"
+    alt="Hey! I am Samuel"
+    width="938"
+    height="250"
+  />
+</p>
+
 <!-- ====== Profile Header ====== -->
 <div align="center">
   <h1>👋 Hi, I’m Samuel Adikah (@sam-Adk)</h1>
@@ -9,10 +19,10 @@
 
 <!-- ====== About Me ====== -->
 ## 👀 I’m interested in
-- Health and Medicine
-- Human Resources Management
-- Finance
-- Sports
+- Health and Medicine  
+- Human Resources Management  
+- Finance  
+- Sports  
 
 ## 🌱 I’m currently learning
 - Python  
@@ -20,8 +30,8 @@
 - SQL  
 - Spreadsheet & Excel  
 - Data Science & Data Analytics  
-- AWS Cloud Computing
-- Human Resources Management/admn
+- AWS Cloud Computing  
+- Human Resources Management / Admin  
 
 ## 💞️ I’m looking to collaborate on
 - Tech Companies  
@@ -29,14 +39,16 @@
 - Corporate Sales Analysis  
 - Sports Analytics  
 
+<!-- ====== Featured Projects ====== -->
+## 🔗 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/sam-Adk/Data-analysis-project">
+    <img src="https://img.shields.io/badge/Data%20Analysis-Project-blue?logo=python" alt="Data Analysis Project" />
+  </a>
+</p>
+
 ## 📫 How to reach me
 - ✉️ Email: <samsmollett50@gmail.com>  
 - 🔗 LinkedIn: [linkedin.com/in/samuel-adikah](https://linkedin.com/in/samuel-adikah)  
-- 🎵 TikTok: [@sam__smollett](https://tiktok.com/@sam__smollett)  
-
-## 😄 Pronouns
-He / Him
-
-## ⚡ Fun fact
-I animated an ’80s red sports car floating past Earth—cigarette and synthwave soundtrack included!
 
