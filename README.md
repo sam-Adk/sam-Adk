@@ -22,7 +22,10 @@
 - Health and Medicine  
 - Human Resources Management  
 - Finance  
-- Sports  
+- Sports
+- AWS cloud computing
+- backend web dev
+- investment Risk Management
 
 ## 🌱 I’m currently learning
 - Python  
@@ -31,7 +34,8 @@
 - Spreadsheet & Excel  
 - Data Science & Data Analytics  
 - AWS Cloud Computing  
-- Human Resources Management / Admin  
+- Human Resources Management / Admin
+- backend web development
 
 ## 💞️ I’m looking to collaborate on
 - Tech Companies  
