@@ -1,7 +1,8 @@
 <!-- ====== Banner ====== -->
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/sam-Adk/sam-Adk/main/git.png"
+    src="![Uploading git.png…]()
+"
     alt="Hey there , Am Samuel"
     width="938"
     height="250"
