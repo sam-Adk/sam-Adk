@@ -1,12 +1,7 @@
 <!-- ====== Banner ====== -->
 <p align="center">
-  <img
-    src="![Uploading git.png…]()
-"
-    alt="Hey there , Am Samuel"
-    width="938"
-    height="250"
-  />
+  <img src="https://user-images.githubusercontent.com/your-username/your-repo/main/images/git.png" 
+    alt="Hey there, Am Samuel" width="938" height="250" />
 </p>
 
 <!-- ====== Profile Header ====== -->
