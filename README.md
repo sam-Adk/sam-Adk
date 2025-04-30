@@ -1,8 +1,7 @@
 <!-- ====== Banner ====== -->
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/sam-Adk/sam-Adk/main/![Cosmic Greeting with GitHub Logo](https://github.com/user-attachments/assets/44dc1a21-f616-4593-81e6-6cbce25287fd)
-"
+    src="https://raw.githubusercontent.com/sam-Adk/sam-Adk/main/Cosmic Greeting with GitHub Logo.png"
     alt="Hi, I am Samuel"
     width="938"
     height="250"
