@@ -1,8 +1,9 @@
 <!-- ====== Banner ====== -->
 <p align="center">
-  <img src="https://https://github.com/sam-Adk/data-analysis-project.git/sam-Adk/sam-Adk/default/images/git.png" 
+  <img src="![git](https://github.com/user-attachments/assets/bea48838-85e9-45e7-9b66-c439a08e6dcf)/sam-Adk/sam-Adk/main/images/git.png" 
     alt="Hey there, Am Samuel" width="938" height="250" />
 </p>
+
 
 <!-- ====== Profile Header ====== -->
 <div align="center">
