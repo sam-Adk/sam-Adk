@@ -1,7 +1,5 @@
-<!-- ====== Banner ====== -->
 <p align="center">
-  <img src="![git](https://github.com/user-attachments/assets/bea48838-85e9-45e7-9b66-c439a08e6dcf)/sam-Adk/sam-Adk/main/images/git.png" 
-    alt="Hey there, Am Samuel" width="938" height="250" />
+  <img src="./git.png" alt="Hey there, Am Samuel" width="938" height="250" />
 </p>
 
 
