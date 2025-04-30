@@ -1,6 +1,6 @@
 <!-- ====== Banner ====== -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/sam-Adk/your-repo/main/images/git.png" 
+  <img src="https://user-images.githubusercontent.com/sam-Adk/sam-Adk/main/images/git.png" 
     alt="Hey there, Am Samuel" width="938" height="250" />
 </p>
 
