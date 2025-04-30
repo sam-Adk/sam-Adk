@@ -1,6 +1,6 @@
 <!-- ====== Banner ====== -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/sam-Adk/sam-Adk/default/images/git.png" 
+  <img src="https://https://github.com/sam-Adk/data-analysis-project.git/sam-Adk/sam-Adk/default/images/git.png" 
     alt="Hey there, Am Samuel" width="938" height="250" />
 </p>
 
