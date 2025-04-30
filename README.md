@@ -2,7 +2,7 @@
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/sam-Adk/sam-Adk/main/git.png"
-    alt="Hi, I am Samuel"
+    alt="Hey there , Am Samuel"
     width="938"
     height="250"
   />
