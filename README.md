@@ -1,6 +1,6 @@
 <p align="center">
   <img src="./git.png"
-    alt="Hey there, Am Samuel" width="938" height="250" />
+    alt="Hey there, Iam Samuel" width="938" height="250" />
 </p>
 
 
