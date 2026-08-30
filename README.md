@@ -121,6 +121,7 @@ My degree is interdisciplinary, but my technical focus has increasingly shifted 
 
 ## 📜 Certifications
 
+* 🧱 Fullstack Web development
 * 🟦 Salesforce Certified Foundation
 * ☁️ AWS Cloud Basics
 * 🔐 ALX Cybersecurity
